@@ -18,7 +18,9 @@
 ## Структура проекта
 com.example/
 │
-├── CalculatorLogic.java   # Логика расчетов
+
+├── CalculatorLogic.java # Логика расчетов
+
 └── SwingCalculator.java    # Графический интерфейс
 
 
